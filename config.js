@@ -8,7 +8,7 @@ const CONFIG = {
     title: 'Ngoài kìa trăm ngã lối về Nếu chưa ai đón thì về với anh😙',
     desc: 'Đêm nay trời khá nhiều sao Anh thích em đấy ý em thế nào? ',
     btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Em không thích anh :3',
+    btnNo: 'Em không thích anh đâu :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
